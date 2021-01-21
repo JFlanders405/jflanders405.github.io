@@ -1,2 +1,2 @@
-Web Version of my Resume
+Web Version of my sample resume
 # jflanders405.github.io
